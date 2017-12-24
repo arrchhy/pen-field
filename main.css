@@ -1,0 +1,28 @@
+body{
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
+  background-color: #f4f4f4;
+}
+
+.logo{
+  font-family: 'Anton', sans-serif;
+  font-size: 120px
+}
+.title{
+  font-size: 2em;
+  margin-bottom: 20px
+}
+.session{
+  padding: 40px 0;
+  margin: 0 auto;
+}
+
+.footer{
+  background-color: #f4f4f4;
+  color:#888;
+  font-family: "Times";
+  font-size:0.9em;
+  text-align: center;
+  line-height: 80px;
+  height:80px
+}
